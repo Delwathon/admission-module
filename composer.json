@@ -1,4 +1,3 @@
-
 {
     "name": "delwathon/admission-module",
     "description": "Admission system module for eduthon product",
@@ -11,12 +10,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {
-        "php": "^8.0.2",
-        "joshbrw/laravel-module-installer": "^2.0",
-        "laravel/framework": "^9.19",
-        "nwidart/laravel-modules": "^9.0"
-    },
+    "require": {},
     "autoload": {
         "psr-4": {
             "Modules\\Admission\\": ""
